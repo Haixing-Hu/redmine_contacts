@@ -1,4 +1,6 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
+
 gem "acts-as-taggable-on", "~> 2.3.1"
 gem "vcard", "~> 0.2.8"
 gem "spreadsheet", "~> 0.6.8"
